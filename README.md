@@ -29,4 +29,4 @@ npm run
 
 After successfully starting the project, open your web browser and go to the specified URL http://localhost:3000
 
-### Enjoy!
+### Enjoy! 🐸
